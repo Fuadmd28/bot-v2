@@ -9,5 +9,7 @@ let handler = async (m, { conn, usedPrefix, command }) => {
 handler.command = /^(neko)$/i
 handler.tags = ['anime']
 handler.help = ['neko']
+handler.limit = true
+handler.group = true
 
 export default handler
