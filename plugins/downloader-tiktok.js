@@ -26,6 +26,8 @@ _©WH-MODS-BOT-V1🍭_
 }
 handler.help = ['tiktok', 'tiktok', 'tiktokdl'].map(v => v + ' <url>')
 handler.tags = ['downloader']
+handler.limit = true
+handler.group = true
 handler.command = /^(tik(tok)?(tok)?(dl)?)$/i
 
 export default handler
