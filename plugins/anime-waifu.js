@@ -10,6 +10,7 @@ let handler = async (m, { conn, usedPrefix }) => {
 handler.help = ['waifu']
 handler.tags = ['anime']
 handler.limit = true
+handler.group = true
 handler.command = /^(waifu)$/i
 //MADE IN ERPAN 1140 BERKOLABORASI DENGAN BTS
 export default handler
