@@ -25,5 +25,7 @@ Bonus: ${poin} XP
 handler.help = ['caklontong']
 handler.tags = ['game']
 handler.command = /^caklontong/i
+handler.limit = true
+handler.group = true
 
 export default handler
