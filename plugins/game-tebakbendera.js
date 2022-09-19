@@ -29,5 +29,7 @@ Bonus: ${poin} XP
 handler.help = ['tebakbendera']
 handler.tags = ['game']
 handler.command = /^tebakbendera/i
+handler.limit = true
+handler.group = true
 
 export default handler
