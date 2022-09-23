@@ -6,7 +6,7 @@ let str = `*https://bit.ly/3DrNR1l*
 
 Pengen mentahan nya ?
 Nih ada santai bro....
-https://github.com/Fuadmd28/Neko-Bot
+https://github.com/Lu-asik-bg/Neko-Bot
 
 
 Pengen yang udah di recode oleh owner?
