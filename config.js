@@ -37,19 +37,19 @@ global.sdc = '-' //discord
 global.snh = 'https://youtube.com/channel/UCbI74T0AXUI26VC88NyoWdw' // my youtube channel
 
 /*============== PAYMENT ==============*/
-global.pdana = '082171432358' //dana
-global.povo = '08XXXXXXXXXX' //ovo
-global.pgopay = '08XXXXXXXXXX' //gopay
-global.plinkaja = '08XXXXXXXXXX' //link aja
-global.ppulsa = '081287142545' //telkomsel
-global.ppulsa2 = '082171432358' // kalau ada kartu lain isi aja
-global.psaweria = 'https://saweria.com/mrw4h1d'
+global.pdana = '08989513496' //dana
+global.povo = '____' //ovo
+global.pgopay = '08989513496' //gopay
+global.plinkaja = '____' //link aja
+global.ppulsa = '08989513496' //telkomsel
+global.ppulsa2 = '____' // kalau ada kartu lain isi aja
+global.psaweria = '____'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '6281287142545'
-global.nomorown = '282171432358'
-global.namebot = 'MGBOTZ'
-global.nameown = 'JANGAN KEPO :V'
+global.nomorbot = '628XXXXXXX'
+global.nomorown = '628989513496'
+global.namebot = 'NeKo-Botzz'
+global.nameown = 'DIA PEDO BANG :v :V'
 
 /*============== APIKEY SIMPEL ==============*/
 global.zenzkey = 'b8040941f7'
@@ -58,10 +58,10 @@ global.lolkey = '8e66d0934cf741bfd2182c16' // PUNYA WAHID 357d3c85079c4e0818731e
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6282171432358', 'JANGAN KEPO ;V', true],
-  ['6281287142545', 'MGBOTZ-MD', true],
-  ['-', 'isi_kalau_ada', true],
-  ['-', 'isi_kalau_ada', true] //Ganti jd nomormu sama Namamu
+  ['628989513496', 'DIA PEDO BANG ;V', true],
+  ['628989513496', 'BANG FUAD', true],
+  ['628989513496', ':v', true],
+  ['628989513496', 'BANG FUAD', true] //Ganti jd nomormu sama Namamu
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
@@ -109,22 +109,22 @@ global.APIKeys = { // APIKey Here
 // Kata APIKEY itu isi dengan apikey lu sendiri, dengan beli ke website itu
 
 /*============== WATERMARK ==============*/
-global.wm = '「 MGBOTZ-MD」' //Main Watermark
-global.wm2 = 'MGBOTZ-MD-MULTIDEVICE'
-global.wm3 = '⫹⫺ MGBOTZ-MD-V2 '
+global.wm = '「 NeKo-Botzz」' //Main Watermark
+global.wm2 = 'NEKO-BOTZZ'
+global.wm3 = '⫹⫺ NeKo-Botzz '
 global.botdate = `⫹⫺ DATE: ${week} ${date}\n⫹⫺ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 global.bottime = `T I M E : ${wktuwib}`
-global.titlebot = `⫹⫺ WhatsApp Bot | MGBOTZ`
-global.author = '「 WH-MODS-BOT-V1 」'
+global.titlebot = `⫹⫺ WhatsApp Bot | NeKo-Botzz`
+global.author = '「 NeKo-Botzz 」'
 
 
 
 /*============== LOGO ==============*/
-global.thumb = 'https://i.ibb.co/XZrK6yQ/transformers.jpg' //Main Thumbnail
-global.imagebot = 'https://i.ibb.co/XZrK6yQ/transformers.jpg'
+global.thumb = 'https://i.ibb.co/5KG7wmH/20220927-214127.jpg' //Main Thumbnail
+global.imagebot = 'https://i.ibb.co/5KG7wmH/20220927-214127.jpg'
 global.giflogo = 'https://telegra.ph/file/a46ab7fa39338b1f54d5a.mp4'
-global.thumbs = ['https://i.ibb.co/XZrK6yQ/transformers.jpg']
-global.fla = 'https://i.ibb.co/XZrK6yQ/transformers.jpg'
+global.thumbs = ['https://i.ibb.co/5KG7wmH/20220927-214127.jpg']
+global.fla = 'https://i.ibb.co/5KG7wmH/20220927-214127.jpg'
 global.flaaa2 = [
 'https://flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=water-logo&script=water-logo&fontsize=90&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&fillTextColor=%23000&shadowGlowColor=%23000&backgroundColor=%23000&text=',
 'https://flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=crafts-logo&fontsize=90&doScale=true&scaleWidth=800&scaleHeight=500&text=',
@@ -190,8 +190,8 @@ global.htjava = '⫹⫺'    //hiasan Doang :v
 global.hsquere = ['⛶','❏','⫹⫺']
 
 /*============== STICKER WM ==============*/
-global.stickpack = 'Stiker By '
-global.stickauth = `MGBOTZ-MD '
+global.stickpack = 'Neko-Botzz '
+global.stickauth = `BANG FUAD '
 `
 
 global.multiplier = 38 // The higher, The harder levelup
