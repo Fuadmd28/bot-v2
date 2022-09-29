@@ -30,26 +30,26 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
 /*============== SOCIAL ==============*/
 
 // kalo ga punya ketik "-" atau biarin aja biar ada creditsnya :v
-global.sig = 'BELOM BIKIN'
+global.sig = 'https://instagram.com/al_pakel'
 global.sgh = '-' //github
-global.sgc = 'https://bit.ly/3DrNR1l' //group whatsapp
+global.sgc = 'https://chat.whatsapp.com/E1TElUfSJY63Cs9WqNjEEC' //group whatsapp
 global.sdc = '-' //discord
-global.snh = 'BELOM BIKIN' // my youtube channel
+global.snh = 'https://youtube.com/channel/UCbI74T0AXUI26VC88NyoWdw' // my youtube channel
 
 /*============== PAYMENT ==============*/
-global.pdana = '08989513496' //dana
-global.povo = '08989513496' //ovo
-global.pgopay = '08989513496' //gopay
-global.plinkaja = 'BELOM ADA' //link aja
-global.ppulsa = '08989513496' //telkomsel
-global.ppulsa2 = '?' // kalau ada kartu lain isi aja
-global.psaweria = 'BELOM BIKIN'
+global.pdana = '082171432358' //dana
+global.povo = '08XXXXXXXXXX' //ovo
+global.pgopay = '08XXXXXXXXXX' //gopay
+global.plinkaja = '08XXXXXXXXXX' //link aja
+global.ppulsa = '081287142545' //telkomsel
+global.ppulsa2 = '082171432358' // kalau ada kartu lain isi aja
+global.psaweria = 'https://saweria.com/mrw4h1d'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '628XXXXXXXXXX'
-global.nomorown = '628989513496'
-global.namebot = 'NeKo-Botzz'
-global.nameown = 'BANG FUAD'
+global.nomorbot = '6281287142545'
+global.nomorown = '282171432358'
+global.namebot = 'MGBOTZ'
+global.nameown = 'JANGAN KEPO :V'
 
 /*============== APIKEY SIMPEL ==============*/
 global.zenzkey = 'b8040941f7'
@@ -58,10 +58,10 @@ global.lolkey = '8e66d0934cf741bfd2182c16' // PUNYA WAHID 357d3c85079c4e0818731e
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['628989513496', 'BANG FUAD', true],
-  ['-', '628989513496', true],
-  ['-', '628989513496', true],
-  ['-', '628989513496', true] //Ganti jd nomormu sama Namamu
+  ['6282171432358', 'JANGAN KEPO ;V', true],
+  ['6281287142545', 'MGBOTZ-MD', true],
+  ['-', 'isi_kalau_ada', true],
+  ['-', 'isi_kalau_ada', true] //Ganti jd nomormu sama Namamu
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
@@ -109,17 +109,18 @@ global.APIKeys = { // APIKey Here
 // Kata APIKEY itu isi dengan apikey lu sendiri, dengan beli ke website itu
 
 /*============== WATERMARK ==============*/
-global.wm = '                「 NeKo-Botzz 」' //Main Watermark
-global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘Neko-Botzz ˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
-global.wm3 = '⫹⫺ NeKo-Botzz '
+global.wm = '「 MGBOTZ-MD」' //Main Watermark
+global.wm2 = 'MGBOTZ-MD-MULTIDEVICE'
+global.wm3 = '⫹⫺ MGBOTZ-MD-V2 '
 global.botdate = `⫹⫺ DATE: ${week} ${date}\n⫹⫺ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 global.bottime = `T I M E : ${wktuwib}`
-global.titlebot = `⫹⫺ WhatsApp Bot | By NeKo-Botzz`
-global.author = '                「 NeKo-Botzz  あ」'
+global.titlebot = `⫹⫺ WhatsApp Bot | MGBOTZ`
+global.author = '「 WH-MODS-BOT-V1 」'
+
 
 
 /*============== LOGO ==============*/
-global.thumb = 'https://telegra.ph/file/9fe2b4ead8ae471b66c71.jpg' //Main Thumbnail
+global.thumb = 'https://i.ibb.co/XZrK6yQ/transformers.jpg' //Main Thumbnail
 global.imagebot = 'https://i.ibb.co/XZrK6yQ/transformers.jpg'
 global.giflogo = 'https://telegra.ph/file/a46ab7fa39338b1f54d5a.mp4'
 global.thumbs = ['https://i.ibb.co/XZrK6yQ/transformers.jpg']
@@ -133,7 +134,7 @@ global.flaaa2 = [
 
 /*============== HENTAI ==============*/ 
 //OPTIONS
-global.optsnsfw = true // Untuk mematikan Dan Menyalakan Nsfw
+global.optsnsfw = false // Untuk mematikan Dan Menyalakan Nsfw
 global.premnsfw = true // Nsfw Mode Premium?
 
 
@@ -189,8 +190,9 @@ global.htjava = '⫹⫺'    //hiasan Doang :v
 global.hsquere = ['⛶','❏','⫹⫺']
 
 /*============== STICKER WM ==============*/
-global.stickpack = 'NeKo-Botzz'
-global.stickauth = `By ©BANG FUAD`
+global.stickpack = 'Stiker By '
+global.stickauth = `MGBOTZ-MD '
+`
 
 global.multiplier = 38 // The higher, The harder levelup
 
