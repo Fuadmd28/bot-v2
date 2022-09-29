@@ -119,7 +119,7 @@ global.author = '                「 WH-MODS-BOT-V1  あ」'
 
 
 /*============== LOGO ==============*/
-global.thumb = 'https://i.ibb.co/K9m3g5j/f718b1722164629b99c82876d0957de5.jpg' //Main Thumbnail
+global.thumb = 'https://i.ibb.co/h8jLSYS/thumbnail.jpg' //Main Thumbnail
 global.imagebot = 'https://i.ibb.co/XZrK6yQ/transformers.jpg'
 global.giflogo = 'https://telegra.ph/file/a46ab7fa39338b1f54d5a.mp4'
 global.thumbs = ['https://i.ibb.co/XZrK6yQ/transformers.jpg']
