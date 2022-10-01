@@ -31,25 +31,25 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
 
 // kalo ga punya ketik "-" atau biarin aja biar ada creditsnya :v
 global.sig = 'https://instagram.com/_ctzhid'
-global.sgh = 'https://instagram.com/_ctzhid' //github
-global.sgc = 'https://instagram.com/_ctzhid' //group whatsapp
+global.sgh = '-' //github
+global.sgc = 'https://chat.whatsapp.com/Iu9I1k8FnT41XIF50' //group whatsapp
 global.sdc = '-' //discord
-global.snh = 'https://instagram.com/_ctzhid' // my youtube channel
+global.snh = 'https://www.youtube.com/channel/UCMx4e8anOq_Olt2ow' // my youtube channel
 
 /*============== PAYMENT ==============*/
 global.pdana = '08989513496' //dana
-global.povo = '___' //ovo
-global.pgopay = '089895513496' //gopay
+global.povo = '08989513496' //ovo
+global.pgopay = '08989513496' //gopay
 global.plinkaja = '08989513496' //link aja
-global.ppulsa = '08989513496' //Tri
+global.ppulsa = '08989513496' //telkomsel
 global.ppulsa2 = '08XXXXXXXXXX' // kalau ada kartu lain isi aja
-global.psaweria = 'https://saweria.com/Ga-punya'
+global.psaweria = 'https://saweria.com/Fuad-Md'
 
 /*============== NOMOR ==============*/
 global.nomorbot = '628XXXXXXXXXX'
 global.nomorown = '628989513496'
-global.namebot = 'Neko-Botzz'
-global.nameown = 'Bang Fuad'
+global.namebot = 'NeKo-Botzz'
+global.nameown = 'NeKo-Botzz'
 
 /*============== APIKEY SIMPEL ==============*/
 global.zenzkey = 'b8040941f7'
@@ -114,12 +114,12 @@ global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘NeKo-Botzz ˘ฅ ꒱ ‧₊˚꒷�
 global.wm3 = '⫹⫺ NeKo-Botzz '
 global.botdate = `⫹⫺ DATE: ${week} ${date}\n⫹⫺ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 global.bottime = `T I M E : ${wktuwib}`
-global.titlebot = `⫹⫺ WhatsApp Bot | By NeKo-Botzz`
-global.author = '                「 Bang Fuad  あ」'
+global.titlebot = `⫹⫺ WhatsApp Bot | NeKo-Botzz`
+global.author = '                「 NeKo-Botzz  あ」'
 
 
 /*============== LOGO ==============*/
-global.thumb = 'https://i.ibb.co/8bFp57J/pin.jpg' //Main Thumbnail
+global.thumb = 'https://i.ibb.co/XZrK6yQ/transformers.jpg' //Main Thumbnail
 global.imagebot = 'https://i.ibb.co/XZrK6yQ/transformers.jpg'
 global.giflogo = 'https://telegra.ph/file/a46ab7fa39338b1f54d5a.mp4'
 global.thumbs = ['https://i.ibb.co/XZrK6yQ/transformers.jpg']
@@ -190,7 +190,7 @@ global.hsquere = ['⛶','❏','⫹⫺']
 
 /*============== STICKER WM ==============*/
 global.stickpack = 'NeKo-Botzz'
-global.stickauth = `By © Bang Fuad`
+global.stickauth = `By ©Bang Fuad`
 
 global.multiplier = 38 // The higher, The harder levelup
 
