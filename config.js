@@ -119,7 +119,7 @@ global.author = '                「 Bang Fuad  あ」'
 
 
 /*============== LOGO ==============*/
-global.thumb = 'https://i.ibb.co/Jjb5zcJ/IMG-20221001-112831.jpg' //Main Thumbnail
+global.thumb = 'https://i.ibb.co/8bFp57J/pin.jpg' //Main Thumbnail
 global.imagebot = 'https://i.ibb.co/XZrK6yQ/transformers.jpg'
 global.giflogo = 'https://telegra.ph/file/a46ab7fa39338b1f54d5a.mp4'
 global.thumbs = ['https://i.ibb.co/XZrK6yQ/transformers.jpg']
