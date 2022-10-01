@@ -31,10 +31,10 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
 
 // kalo ga punya ketik "-" atau biarin aja biar ada creditsnya :v
 global.sig = 'https://instagram.com/_ctzhid'
-global.sgh = '-' //github
-global.sgc = 'https://chat.whatsapp.com/GmXOLVjquxA7iYhTfak2Mt' //group whatsapp
+global.sgh = 'https://instagram.com/_ctzhid' //github
+global.sgc = 'https://instagram.com/_ctzhid' //group whatsapp
 global.sdc = '-' //discord
-global.snh = 'https://www.youtube.com/channel/UCM0Cow' // my youtube channel
+global.snh = 'https://instagram.com/_ctzhid' // my youtube channel
 
 /*============== PAYMENT ==============*/
 global.pdana = '08989513496' //dana
@@ -119,7 +119,7 @@ global.author = '                「 Bang Fuad  あ」'
 
 
 /*============== LOGO ==============*/
-global.thumb = 'https://i.ibb.co/G35W7q6/IMG-20220930-142434.jpg' //Main Thumbnail
+global.thumb = 'https://i.ibb.co/Jjb5zcJ/IMG-20221001-112831.jpg' //Main Thumbnail
 global.imagebot = 'https://i.ibb.co/XZrK6yQ/transformers.jpg'
 global.giflogo = 'https://telegra.ph/file/a46ab7fa39338b1f54d5a.mp4'
 global.thumbs = ['https://i.ibb.co/XZrK6yQ/transformers.jpg']
